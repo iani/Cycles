@@ -1,0 +1,6 @@
+* Purpose
+Encode musical forms and processes in SuperCollider. Also implement musical theoretical principles, with reference to music semiotics, theory and philosophy of music. 
+
+* Requirements
+
+The =sc-hacks-redux= library is needed to run some of the examples. 
