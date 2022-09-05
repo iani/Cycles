@@ -1,0 +1,10 @@
+#+TITLE: Topics
+
+* Technical SC topics
+** Defining and using custom event types
+*** Send an OSC message at each event
+(Timed playback of OSC messages recorded with timestamp).
+** Using Demend ugen for timing of cycles and for parameters driving sound events.
+** Using Demand ugen for triggering playback of subsamples i.e. parts only of a bigger sound file.
+* Sonic structures to model
+(From pieces studied)
